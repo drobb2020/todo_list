@@ -5,6 +5,8 @@
 
 This is a Django application based on a [YouTube Video](https://www.youtube.com/watch?v=llbtoQTt4qw&t=3284s) presented by Dennis Ivy. Please check out his channel on [YouTube](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg). Also, you should take the time to read this [article](https://www.dennisivy.com/post/django-class-based-views/) on class based views in django. The article has many great links to django resources.
 
+This was a quick and fun django project and taught me a lot about class based views in django.
+
 ## Starting the To Do Project
 
 1. Create a virtual environment with the command:
